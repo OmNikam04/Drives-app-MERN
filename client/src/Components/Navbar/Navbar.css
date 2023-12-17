@@ -1,0 +1,29 @@
+
+
+.link{
+    outline:none;
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: none;
+    color: rgb(224, 255, 255);
+}
+.userProfile{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.userProfile > img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.userProfile > h5{
+    padding: .3rem .6rem;
+    background: rgb(24, 90, 27);
+    border-radius: 50%;
+}

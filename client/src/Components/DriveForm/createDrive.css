@@ -1,0 +1,14 @@
+.form-control{
+    margin-bottom: 20px;
+    background: rgb(255, 255, 252);
+    width: 50%;
+}
+.form-control:focus{
+    border: none;
+}
+
+.form-group>label{
+    font-size: 15px;
+    color: rgb(50, 82, 3);
+    font-weight: bold;
+}
